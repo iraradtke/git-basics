@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee0c140b-8a30-47d3-9a8b-3c9ccc218599" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+            <state relative-caret-position="442">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11106">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+              <folding>
+                <element signature="e#166#48397#1" expanded="true" />
+                <element signature="e#48735#96166#1" expanded="true" />
+                <element signature="e#96494#148653#1" expanded="true" />
+                <element signature="e#148995#202290#1" expanded="true" />
+                <element signature="e#202651#215514#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Ex_Files_Github_Web_Design/exercise_files/Chapter_02/02_14/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="16" column="34" selection-start-line="16" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -35,6 +61,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_css/main.css" />
       </list>
     </option>
   </component>
@@ -47,10 +74,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
-    <option name="height" value="1177" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,6 +93,11 @@
             <path>
               <item name="git-basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="git-basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="git-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="_css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,15 +133,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547740603628</updated>
-      <workItem from="1547740606526" duration="196000" />
+      <workItem from="1547740606526" duration="830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196000" />
+    <option name="totallyTimeSpent" value="830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
@@ -139,10 +170,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Ex_Files_Github_Web_Design/exercise_files/Chapter_02/02_14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="34" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11106">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="e#166#48397#1" expanded="true" />
+            <element signature="e#48735#96166#1" expanded="true" />
+            <element signature="e#96494#148653#1" expanded="true" />
+            <element signature="e#148995#202290#1" expanded="true" />
+            <element signature="e#202651#215514#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        <state relative-caret-position="442">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
